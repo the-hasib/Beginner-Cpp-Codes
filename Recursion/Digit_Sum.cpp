@@ -14,3 +14,4 @@ int main() {
     printf("Digit sum of %d is %d\n", num, digitSum(num));
     return 0;
 }
+ 
